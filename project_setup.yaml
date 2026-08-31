@@ -1,0 +1,83 @@
+output_filepath: ./pyhf/test_output.root
+reco_channel_id_column: channel
+reco_channels:
+  channel1: ["B_to_Lambda_c_plnu_e"]
+  channel2: ["B_to_Lambda_c_plnu_mu"]
+template_id_column: template
+templates:
+  - signMC
+  - background
+  - continuum
+total_weight: total_weight
+MC_prod: MC15rd
+Nvar: 500
+bins:
+  channel1:
+    m2RecoilSignalSide: [-0.5, -0.1, 0.1, 0.3, 0.7, 1.1]
+  channel2:
+    m2RecoilSignalSide: [-0.5, -0.1, 0.1, 0.3, 0.7, 1.1]
+    
+systematics:
+  FEI:
+    weight: "weight"
+    prefices: "Btag"
+    reco_channels:
+      include: ["channel1", "channel2"]
+      exclude:
+    templates: ["signMC", "background", "continuum"]
+
+  track_eff:
+    weight: "tracks"
+    prefices: "B"
+    reco_channels:
+      include: ["channel1", "channel2"]
+      exclude:
+    templates: ["signMC", "background", "continuum"]
+
+  e_eff:
+    weight: "weight"
+    prefices: "electron"
+    reco_channels:
+      include: ["channel1"]
+      exclude: ["channel2"]
+    templates: ["signMC", "background", "continuum"]
+
+  mu_eff:
+    weight: "weight"
+    prefices: "muon"
+    reco_channels:
+      include: ["channel2"]
+      exclude: ["channel1"]
+    templates: ["signMC", "background", "continuum"]
+
+  e_pifake:
+    weight: "pifake_weight"
+    prefices: "electron"
+    reco_channels:
+      include: ["channel1"]
+      exclude: ["channel2"]
+    templates: ["signMC", "background", "continuum"]
+
+  mu_pifake:
+    weight: "pifake_weight"
+    prefices: "muon"
+    reco_channels:
+      include: ["channel2"]
+      exclude: ["channel1"]
+    templates: ["signMC", "background", "continuum"]
+
+  e_Kfake:
+    weight: "Kfake_weight"
+    prefices: "electron"
+    reco_channels:
+      include: ["channel1"]
+      exclude: ["channel2"]
+    templates: ["signMC", "background", "continuum"]
+
+  mu_Kfake:
+    weight: "Kfake_weight"
+    prefices: "muon"
+    reco_channels:
+      include: ["channel2"]
+      exclude: ["channel1"]
+    templates: ["signMC", "background", "continuum"]

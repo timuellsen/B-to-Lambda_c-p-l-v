@@ -1,0 +1,4537 @@
+CS_Score:
+  name: CS_Score
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: CS_Score
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__experiment__:
+  name: __experiment__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __experiment__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__run__:
+  name: __run__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __run__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__event__:
+  name: __event__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __event__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__production__:
+  name: __production__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __production__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__candidate__:
+  name: __candidate__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __candidate__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__ncandidates__:
+  name: __ncandidates__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __ncandidates__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+__weight__:
+  name: __weight__
+  bins: 50
+  range:
+  - min
+  - max
+  label: __weight__
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_p:
+  name: B_Lambda_c_p_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_useCMSFrame_p:
+  name: B_Lambda_c_p_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_cosTheta:
+  name: B_Lambda_c_p_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_phi:
+  name: B_Lambda_c_p_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_charge:
+  name: B_Lambda_c_p_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_isSignal:
+  name: B_Lambda_c_p_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_chiProb:
+  name: B_Lambda_c_p_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_electronID:
+  name: B_Lambda_c_p_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_muonID:
+  name: B_Lambda_c_p_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_pionID:
+  name: B_Lambda_c_p_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_kaonID:
+  name: B_Lambda_c_p_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_protonID:
+  name: B_Lambda_c_p_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_deuteronID:
+  name: B_Lambda_c_p_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_p:
+  name: B_Lambda_c_K_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_useCMSFrame_p:
+  name: B_Lambda_c_K_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_cosTheta:
+  name: B_Lambda_c_K_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_phi:
+  name: B_Lambda_c_K_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_charge:
+  name: B_Lambda_c_K_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_isSignal:
+  name: B_Lambda_c_K_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_chiProb:
+  name: B_Lambda_c_K_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_electronID:
+  name: B_Lambda_c_K_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_muonID:
+  name: B_Lambda_c_K_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_pionID:
+  name: B_Lambda_c_K_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_kaonID:
+  name: B_Lambda_c_K_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_protonID:
+  name: B_Lambda_c_K_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_deuteronID:
+  name: B_Lambda_c_K_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_p:
+  name: B_Lambda_c_pi_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_useCMSFrame_p:
+  name: B_Lambda_c_pi_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_cosTheta:
+  name: B_Lambda_c_pi_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_phi:
+  name: B_Lambda_c_pi_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_charge:
+  name: B_Lambda_c_pi_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_isSignal:
+  name: B_Lambda_c_pi_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_chiProb:
+  name: B_Lambda_c_pi_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_electronID:
+  name: B_Lambda_c_pi_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_muonID:
+  name: B_Lambda_c_pi_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_pionID:
+  name: B_Lambda_c_pi_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_kaonID:
+  name: B_Lambda_c_pi_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_protonID:
+  name: B_Lambda_c_pi_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_deuteronID:
+  name: B_Lambda_c_pi_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_p:
+  name: B_p_p
+  bins: 50
+  range:
+  - 0
+  - 3
+  label: B_p_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_useCMSFrame_p:
+  name: B_p_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_cosTheta:
+  name: B_p_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_phi:
+  name: B_p_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_charge:
+  name: B_p_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_isSignal:
+  name: B_p_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_chiProb:
+  name: B_p_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_electronID:
+  name: B_p_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_muonID:
+  name: B_p_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_pionID:
+  name: B_p_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_kaonID:
+  name: B_p_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_protonID:
+  name: B_p_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_deuteronID:
+  name: B_p_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_p:
+  name: B_mu_p
+  bins: 50
+  range:
+  - 0
+  - 3
+  label: B_mu_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_useCMSFrame_p:
+  name: B_mu_useCMSFrame_p
+  bins: 50
+  range:
+  - 0
+  - 3
+  label: B_mu_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_cosTheta:
+  name: B_mu_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_phi:
+  name: B_mu_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_charge:
+  name: B_mu_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_isSignal:
+  name: B_mu_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_chiProb:
+  name: B_mu_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_electronID:
+  name: B_mu_electronID
+  bins: 50
+  range:
+  - 0.9
+  - 1
+  label: B_mu_electronID
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_muonID:
+  name: B_mu_muonID
+  bins: 50
+  range:
+  - 0.9
+  - 1
+  label: B_mu_muonID
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_pionID:
+  name: B_mu_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_kaonID:
+  name: B_mu_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_protonID:
+  name: B_mu_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_deuteronID:
+  name: B_mu_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+InvM:
+  name: InvM
+  bins: 30
+  range:
+  - 8
+  - 11
+  label: InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isSignal:
+  name: isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isSignalAcceptMissing:
+  name: isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isSignalAcceptMissingGamma:
+  name: isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isSignalAcceptMissingMassive:
+  name: isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isSignalAcceptMissingNeutrino:
+  name: isSignalAcceptMissingNeutrino
+  bins: 50
+  range:
+  - min
+  - max
+  label: isSignalAcceptMissingNeutrino
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mcErrors:
+  name: mcErrors
+  bins: 50
+  range:
+  - min
+  - max
+  label: mcErrors
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+chiProb:
+  name: chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+extraInfo__bodecayModeID__bc:
+  name: extraInfo__bodecayModeID__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: extraInfo__bodecayModeID__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+p:
+  name: p
+  bins: 50
+  range:
+  - min
+  - max
+  label: p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+useCMSFrame__bop__bc:
+  name: useCMSFrame__bop__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: useCMSFrame__bop__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cosTheta:
+  name: cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+phi:
+  name: phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+charge:
+  name: charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+dM:
+  name: dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_InvM:
+  name: B_InvM
+  bins: 50
+  range:
+  - 3.5
+  - 5.5
+  label: B_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_isSignal:
+  name: B_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_isSignalAcceptMissing:
+  name: B_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_isSignalAcceptMissingGamma:
+  name: B_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_isSignalAcceptMissingMassive:
+  name: B_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_isSignalAcceptMissingNeutrino:
+  name: B_isSignalAcceptMissingNeutrino
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_isSignalAcceptMissingNeutrino
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcErrors:
+  name: B_mcErrors
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcErrors
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_chiProb:
+  name: B_chiProb
+  bins: 20
+  range:
+  - 0
+  - 1
+  label: B_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_extraInfo_decayModeID:
+  name: B_extraInfo_decayModeID
+  bins: 50
+  range:
+  - -0.5
+  - 34.5
+  label: B_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p:
+  name: B_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_useCMSFrame_p:
+  name: B_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_cosTheta:
+  name: B_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_phi:
+  name: B_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_charge:
+  name: B_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_dM:
+  name: B_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_InvM:
+  name: B_Lambda_c_InvM
+  bins: 40
+  range:
+  - 2.2
+  - 2.4
+  label: $M_{\Lambda_c}$ [GeV]
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_isSignal:
+  name: B_Lambda_c_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_isSignalAcceptMissing:
+  name: B_Lambda_c_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_isSignalAcceptMissingGamma:
+  name: B_Lambda_c_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_isSignalAcceptMissingMassive:
+  name: B_Lambda_c_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_isSignalAcceptMissingNeutrino:
+  name: B_Lambda_c_isSignalAcceptMissingNeutrino
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_isSignalAcceptMissingNeutrino
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_mcErrors:
+  name: B_Lambda_c_mcErrors
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_mcErrors
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_chiProb:
+  name: B_Lambda_c_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_extraInfo_decayModeID:
+  name: B_Lambda_c_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p:
+  name: B_Lambda_c_p
+  bins: 50
+  range:
+  - 0
+  - 3
+  label: B_Lambda_c_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_useCMSFrame_p:
+  name: B_Lambda_c_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_cosTheta:
+  name: B_Lambda_c_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_phi:
+  name: B_Lambda_c_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_charge:
+  name: B_Lambda_c_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_dM:
+  name: B_Lambda_c_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_cosThetaBetweenParticleAndNominalB:
+  name: B_cosThetaBetweenParticleAndNominalB
+  bins: 28
+  range:
+  - -6
+  - 8
+  label: cos$\theta_{BY}$
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvariantMass_0_1:
+  name: B_daughterInvariantMass_0_1
+  bins: 50
+  range:
+  - 0
+  - 6
+  label: B_daughterInvariantMass_0_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterAngle_0_1:
+  name: B_daughterAngle_0_1
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterAngle_0_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterAngle_0_2:
+  name: B_daughterAngle_0_2
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterAngle_0_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterAngle_1_2:
+  name: B_daughterAngle_1_2
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterAngle_1_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterAngle_0_1_2:
+  name: B_daughterAngle_0_1_2
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterAngle_0_1_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_recQ2Bh:
+  name: B_recQ2Bh
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_recQ2Bh
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_recQ2BhSimple:
+  name: B_recQ2BhSimple
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_recQ2BhSimple
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+nROE_Charged__bo__bc:
+  name: nROE_Charged__bo__bc
+  bins: 7
+  range:
+  - 0
+  - 7
+  label: $n^\text{ROE}_\text{charged}$
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+nROE_Photons__bo__bc:
+  name: nROE_Photons__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: nROE_Photons__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+nROE_NeutralHadrons__bo__bc:
+  name: nROE_NeutralHadrons__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: nROE_NeutralHadrons__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_foxWolframR2:
+  name: B_foxWolframR2
+  bins: 20
+  range:
+  - 0
+  - 1
+  label: Fox Wolfram R2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+foxWolframR1:
+  name: foxWolframR1
+  bins: 50
+  range:
+  - 0
+  - 0.3
+  label: foxWolframR1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+foxWolframR2:
+  name: foxWolframR2
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: foxWolframR2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+foxWolframR3:
+  name: foxWolframR3
+  bins: 50
+  range:
+  - 0
+  - 0.4
+  label: foxWolframR3
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+foxWolframR4:
+  name: foxWolframR4
+  bins: 50
+  range:
+  - 0
+  - 0.8
+  label: foxWolframR4
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+harmonicMomentThrust0:
+  name: harmonicMomentThrust0
+  bins: 50
+  range:
+  - 0.5
+  - 1.5
+  label: harmonicMomentThrust0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+harmonicMomentThrust1:
+  name: harmonicMomentThrust1
+  bins: 50
+  range:
+  - 0
+  - 0.3
+  label: harmonicMomentThrust1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+harmonicMomentThrust2:
+  name: harmonicMomentThrust2
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: harmonicMomentThrust2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+harmonicMomentThrust3:
+  name: harmonicMomentThrust3
+  bins: 50
+  range:
+  - 0
+  - 0.5
+  label: harmonicMomentThrust3
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+harmonicMomentThrust4:
+  name: harmonicMomentThrust4
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: harmonicMomentThrust4
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust0:
+  name: cleoConeThrust0
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust1:
+  name: cleoConeThrust1
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust2:
+  name: cleoConeThrust2
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust3:
+  name: cleoConeThrust3
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust3
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust4:
+  name: cleoConeThrust4
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust4
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust5:
+  name: cleoConeThrust5
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust5
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust6:
+  name: cleoConeThrust6
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust6
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust7:
+  name: cleoConeThrust7
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust7
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cleoConeThrust8:
+  name: cleoConeThrust8
+  bins: 50
+  range:
+  - 0
+  - 5
+  label: cleoConeThrust8
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+sphericity:
+  name: sphericity
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: sphericity
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+aplanarity:
+  name: aplanarity
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: aplanarity
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+thrust:
+  name: thrust
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: thrust
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+thrustAxisCosTheta:
+  name: thrustAxisCosTheta
+  bins: 50
+  range:
+  - 0
+  - 1
+  label: thrustAxisCosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isContinuumEvent:
+  name: isContinuumEvent
+  bins: 50
+  range:
+  - min
+  - max
+  label: isContinuumEvent
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isUnmixedBEvent:
+  name: isUnmixedBEvent
+  bins: 50
+  range:
+  - min
+  - max
+  label: isUnmixedBEvent
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isChargedBEvent:
+  name: isChargedBEvent
+  bins: 50
+  range:
+  - min
+  - max
+  label: isChargedBEvent
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+isMC:
+  name: isMC
+  bins: 50
+  range:
+  - min
+  - max
+  label: isMC
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+m2RecoilSignalSide:
+  name: m2RecoilSignalSide
+  bins: 10
+  range:
+  - -0.5
+  - 1.5
+  label: $M_\mathrm{miss}^2$ [GeV$^2$]
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+m2RecoilSignalSideB_Mbc:
+  name: m2RecoilSignalSideB_Mbc
+  bins: 50
+  range:
+  - min
+  - max
+  label: m2RecoilSignalSideB_Mbc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_deltaE:
+  name: B_deltaE
+  bins: 40
+  range:
+  - -3
+  - 1
+  label: B_deltaE
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Mbc:
+  name: B_Mbc
+  bins: 50
+  range:
+  - 4.8
+  - 5.3
+  label: B_Mbc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_mcPDG:
+  name: B_Lambda_c_p_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_p_mcMother_PDG:
+  name: B_Lambda_c_p_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_p_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_mcPDG:
+  name: B_Lambda_c_K_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_K_mcMother_PDG:
+  name: B_Lambda_c_K_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_K_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_mcPDG:
+  name: B_Lambda_c_pi_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_pi_mcMother_PDG:
+  name: B_Lambda_c_pi_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_pi_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_mcPDG:
+  name: B_p_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_mcMother_PDG:
+  name: B_p_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_mcPDG:
+  name: B_mu_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mu_mcMother_PDG:
+  name: B_mu_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mu_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mcPDG:
+  name: mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mcMother__boPDG__bc:
+  name: mcMother__boPDG__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: mcMother__boPDG__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcPDG:
+  name: B_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcMother_PDG:
+  name: B_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_mcPDG:
+  name: B_Lambda_c_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_mcMother_PDG:
+  name: B_Lambda_c_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcDaughter_0_PDG:
+  name: B_mcDaughter_0_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcDaughter_0_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcDaughter_1_PDG:
+  name: B_mcDaughter_1_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcDaughter_1_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcDaughter_2_PDG:
+  name: B_mcDaughter_2_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcDaughter_2_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcDaughter_3_PDG:
+  name: B_mcDaughter_3_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcDaughter_3_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_mcDaughter_4_PDG:
+  name: B_mcDaughter_4_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_mcDaughter_4_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvariantMass_0_2:
+  name: B_daughterInvariantMass_0_2
+  bins: 50
+  range:
+  - 0
+  - 6
+  label: B_daughterInvariantMass_0_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvariantMass_1_2:
+  name: B_daughterInvariantMass_1_2
+  bins: 50
+  range:
+  - 0
+  - 6
+  label: B_daughterInvariantMass_1_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_extraInfo_decayModeID:
+  name: Btag_extraInfo_decayModeID
+  bins: 35
+  range:
+  - -0.5
+  - 34.5
+  label: Btag_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+nMCDaughters:
+  name: nMCDaughters
+  bins: 50
+  range:
+  - min
+  - max
+  label: nMCDaughters
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_nMCDaughters:
+  name: B_nMCDaughters
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_nMCDaughters
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_Lambda_c_nMCDaughters:
+  name: B_Lambda_c_nMCDaughters
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_Lambda_c_nMCDaughters
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_extraInfo_SignalProbability:
+  name: Btag_extraInfo_SignalProbability
+  bins: 69
+  range:
+  - -6.9
+  - 0
+  label: Btag_extraInfo_SignalProbability
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_Mbc:
+  name: Btag_Mbc
+  bins: 30
+  range:
+  - 5.25
+  - 5.31
+  label: $M_{bc}$ [GeV]
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_deltaE:
+  name: Btag_deltaE
+  bins: 10
+  range:
+  - -0.2
+  - 0.3
+  label: $\Delta E$ [GeV]
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_cosTBTO:
+  name: Btag_cosTBTO
+  bins: 10
+  range:
+  - 0
+  - 1
+  label: cos($\theta_{TBTO}$)
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_cosThetaBetweenParticleAndNominalB:
+  name: Btag_cosThetaBetweenParticleAndNominalB
+  bins: 50
+  range:
+  - -5
+  - 2
+  label: Btag_cosThetaBetweenParticleAndNominalB
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_p:
+  name: B_p_0_p
+  bins: 50
+  range:
+  - 0
+  - 3
+  label: B_p_0_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_useCMSFrame_p:
+  name: B_p_0_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_cosTheta:
+  name: B_p_0_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_phi:
+  name: B_p_0_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_charge:
+  name: B_p_0_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_isSignal:
+  name: B_p_0_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_chiProb:
+  name: B_p_0_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_electronID:
+  name: B_p_0_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_muonID:
+  name: B_p_0_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_pionID:
+  name: B_p_0_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_kaonID:
+  name: B_p_0_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_protonID:
+  name: B_p_0_protonID
+  bins: 50
+  range:
+  - 0.9
+  - 1.0
+  label: B_p_0_protonID
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_deuteronID:
+  name: B_p_0_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_mcPDG:
+  name: B_p_0_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_0_mcMother_PDG:
+  name: B_p_0_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_0_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_p:
+  name: B_p_1_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_useCMSFrame_p:
+  name: B_p_1_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_cosTheta:
+  name: B_p_1_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_phi:
+  name: B_p_1_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_charge:
+  name: B_p_1_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_isSignal:
+  name: B_p_1_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_chiProb:
+  name: B_p_1_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_electronID:
+  name: B_p_1_electronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_electronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_muonID:
+  name: B_p_1_muonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_muonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_pionID:
+  name: B_p_1_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_kaonID:
+  name: B_p_1_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_protonID:
+  name: B_p_1_protonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_protonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_deuteronID:
+  name: B_p_1_deuteronID
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_deuteronID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_mcPDG:
+  name: B_p_1_mcPDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_mcPDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_p_1_mcMother_PDG:
+  name: B_p_1_mcMother_PDG
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_p_1_mcMother_PDG
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvM_0_1:
+  name: B_daughterInvM_0_1
+  bins: 50
+  range:
+  - 1.8
+  - 4.8
+  label: B_daughterInvM_0_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvM_0_2:
+  name: B_daughterInvM_0_2
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterInvM_0_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+B_daughterInvM_1_2:
+  name: B_daughterInvM_1_2
+  bins: 50
+  range:
+  - min
+  - max
+  label: B_daughterInvM_1_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+protonIDProduct:
+  name: protonIDProduct
+  bins: 50
+  range:
+  - 0.9
+  - 1
+  label: protonIDProduct
+  log: true
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeEextra__bomy_mask__bc:
+  name: roeEextra__bomy_mask__bc
+  bins: 30
+  range:
+  - 0
+  - 3
+  label: roeEextra__bomy_mask__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+nROE_Charged__bomy_mask__bc:
+  name: nROE_Charged__bomy_mask__bc
+  bins: 5
+  range:
+  - -0.5
+  - 4.5
+  label: nROE_Charged__bomy_mask__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_p:
+  name: K_S0_pi_0_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_useCMSFrame_p:
+  name: K_S0_pi_0_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_cosTheta:
+  name: K_S0_pi_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_phi:
+  name: K_S0_pi_0_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_charge:
+  name: K_S0_pi_0_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_isSignal:
+  name: K_S0_pi_0_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_chiProb:
+  name: K_S0_pi_0_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_pionID:
+  name: K_S0_pi_0_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_0_kaonID:
+  name: K_S0_pi_0_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_0_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_p:
+  name: K_S0_pi_1_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_useCMSFrame_p:
+  name: K_S0_pi_1_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_cosTheta:
+  name: K_S0_pi_1_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_phi:
+  name: K_S0_pi_1_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_charge:
+  name: K_S0_pi_1_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_isSignal:
+  name: K_S0_pi_1_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_chiProb:
+  name: K_S0_pi_1_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_pionID:
+  name: K_S0_pi_1_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_pi_1_kaonID:
+  name: K_S0_pi_1_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_pi_1_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_InvM:
+  name: X_13872_InvM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_isSignal:
+  name: X_13872_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_isSignalAcceptMissing:
+  name: X_13872_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_isSignalAcceptMissingGamma:
+  name: X_13872_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_isSignalAcceptMissingMassive:
+  name: X_13872_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_p:
+  name: X_13872_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_useCMSFrame_p:
+  name: X_13872_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_cosTheta:
+  name: X_13872_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_phi:
+  name: X_13872_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_charge:
+  name: X_13872_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_dM:
+  name: X_13872_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_extraInfo_decayModeID:
+  name: X_13872_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_InvM:
+  name: X_13872_D0_0_InvM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_isSignal:
+  name: X_13872_D0_0_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_isSignalAcceptMissing:
+  name: X_13872_D0_0_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_isSignalAcceptMissingGamma:
+  name: X_13872_D0_0_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_isSignalAcceptMissingMassive:
+  name: X_13872_D0_0_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_p:
+  name: X_13872_D0_0_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_useCMSFrame_p:
+  name: X_13872_D0_0_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_cosTheta:
+  name: X_13872_D0_0_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_phi:
+  name: X_13872_D0_0_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_charge:
+  name: X_13872_D0_0_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_dM:
+  name: X_13872_D0_0_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_0_extraInfo_decayModeID:
+  name: X_13872_D0_0_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_0_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_InvM:
+  name: X_13872_D0_1_InvM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_isSignal:
+  name: X_13872_D0_1_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_isSignalAcceptMissing:
+  name: X_13872_D0_1_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_isSignalAcceptMissingGamma:
+  name: X_13872_D0_1_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_isSignalAcceptMissingMassive:
+  name: X_13872_D0_1_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_p:
+  name: X_13872_D0_1_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_useCMSFrame_p:
+  name: X_13872_D0_1_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_cosTheta:
+  name: X_13872_D0_1_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_phi:
+  name: X_13872_D0_1_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_charge:
+  name: X_13872_D0_1_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_dM:
+  name: X_13872_D0_1_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_D0_1_extraInfo_decayModeID:
+  name: X_13872_D0_1_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_D0_1_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_InvM:
+  name: X_13872_pi0_InvM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_isSignal:
+  name: X_13872_pi0_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_isSignalAcceptMissing:
+  name: X_13872_pi0_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_isSignalAcceptMissingGamma:
+  name: X_13872_pi0_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_isSignalAcceptMissingMassive:
+  name: X_13872_pi0_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_p:
+  name: X_13872_pi0_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_useCMSFrame_p:
+  name: X_13872_pi0_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_cosTheta:
+  name: X_13872_pi0_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_phi:
+  name: X_13872_pi0_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_charge:
+  name: X_13872_pi0_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_dM:
+  name: X_13872_pi0_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+X_13872_pi0_extraInfo_decayModeID:
+  name: X_13872_pi0_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: X_13872_pi0_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_InvM:
+  name: K_S0_InvM
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_InvM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_isSignal:
+  name: K_S0_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_isSignalAcceptMissing:
+  name: K_S0_isSignalAcceptMissing
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_isSignalAcceptMissing
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_isSignalAcceptMissingGamma:
+  name: K_S0_isSignalAcceptMissingGamma
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_isSignalAcceptMissingGamma
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_isSignalAcceptMissingMassive:
+  name: K_S0_isSignalAcceptMissingMassive
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_isSignalAcceptMissingMassive
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_p:
+  name: K_S0_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_useCMSFrame_p:
+  name: K_S0_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_cosTheta:
+  name: K_S0_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_phi:
+  name: K_S0_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_charge:
+  name: K_S0_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_dM:
+  name: K_S0_dM
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_dM
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_S0_extraInfo_decayModeID:
+  name: K_S0_extraInfo_decayModeID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_S0_extraInfo_decayModeID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeE__bo__bc:
+  name: roeE__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: roeE__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeM__bo__bc:
+  name: roeM__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: roeM__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeP__bo__bc:
+  name: roeP__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: roeP__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeMbc__bo__bc:
+  name: roeMbc__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: roeMbc__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+roeDeltae__bo__bc:
+  name: roeDeltae__bo__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: roeDeltae__bo__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+deltaE:
+  name: deltaE
+  bins: 50
+  range:
+  - min
+  - max
+  label: deltaE
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Mbc:
+  name: Mbc
+  bins: 50
+  range:
+  - min
+  - max
+  label: Mbc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp1__bc__bc:
+  name: daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp1__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp1__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp2__bc__bc:
+  name: daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp2__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughterInvariantMass__bo0__cm__sp2__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughterInvariantMass__bo1__cm__sp2__bc__bc:
+  name: daughter__bo0__cm__spdaughterInvariantMass__bo1__cm__sp2__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughterInvariantMass__bo1__cm__sp2__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo1__cm__spextraInfo__boK_S0_InvM_bf__bc__bc:
+  name: daughter__bo1__cm__spextraInfo__boK_S0_InvM_bf__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo1__cm__spextraInfo__boK_S0_InvM_bf__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughter__bo2__cm__spextraInfo__bopi0_InvM_bf__bc__bc__bc:
+  name: daughter__bo0__cm__spdaughter__bo2__cm__spextraInfo__bopi0_InvM_bf__bc__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughter__bo2__cm__spextraInfo__bopi0_InvM_bf__bc__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughter__bo0__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc:
+  name: daughter__bo0__cm__spdaughter__bo0__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughter__bo0__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+daughter__bo0__cm__spdaughter__bo1__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc:
+  name: daughter__bo0__cm__spdaughter__bo1__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: daughter__bo0__cm__spdaughter__bo1__cm__spextraInfo__boD0_InvM_bf__bc__bc__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+extraInfo__bochiProb_rank__bc:
+  name: extraInfo__bochiProb_rank__bc
+  bins: 50
+  range:
+  - min
+  - max
+  label: extraInfo__bochiProb_rank__bc
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_p:
+  name: K_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_useCMSFrame_p:
+  name: K_useCMSFrame_p
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_useCMSFrame_p
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_cosTheta:
+  name: K_cosTheta
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_cosTheta
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_phi:
+  name: K_phi
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_phi
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_charge:
+  name: K_charge
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_charge
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_isSignal:
+  name: K_isSignal
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_isSignal
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_chiProb:
+  name: K_chiProb
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_chiProb
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_pionID:
+  name: K_pionID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_pionID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+K_kaonID:
+  name: K_kaonID
+  bins: 50
+  range:
+  - min
+  - max
+  label: K_kaonID
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP:
+  name: iDcyBrP
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBr:
+  name: iDcyBr
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBr
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mc_gen_topo_id:
+  name: mc_gen_topo_id
+  bins: 50
+  range:
+  - min
+  - max
+  label: mc_gen_topo_id
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mc_gen_topo:
+  name: mc_gen_topo
+  bins: 50
+  range:
+  - min
+  - max
+  label: mc_gen_topo
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP_B0_0:
+  name: iDcyBrP_B0_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP_B0_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP_B0_1:
+  name: iDcyBrP_B0_1
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP_B0_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP_B0:
+  name: iDcyBrP_B0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP_B0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mc_gen_topo_200:
+  name: mc_gen_topo_200
+  bins: 50
+  range:
+  - min
+  - max
+  label: mc_gen_topo_200
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+mc_gen_topo(200):
+  name: mc_gen_topo(200)
+  bins: 50
+  range:
+  - min
+  - max
+  label: mc_gen_topo(200)
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP_Bp_0:
+  name: iDcyBrP_Bp_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP_Bp_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrP_Bm_0:
+  name: iDcyBrP_Bm_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrP_Bm_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrCcP_B0_1:
+  name: iDcyBrCcP_B0_1
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrCcP_B0_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrCcP_B0_0:
+  name: iDcyBrCcP_B0_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrCcP_B0_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+iDcyBrCcP_Bp_0:
+  name: iDcyBrCcP_Bp_0
+  bins: 50
+  range:
+  - min
+  - max
+  label: iDcyBrCcP_Bp_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+R2:
+  name: R2
+  bins: 50
+  range:
+  - min
+  - max
+  label: R2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_thrustBm:
+  name: Btag_thrustBm
+  bins: 50
+  range:
+  - min
+  - max
+  label: Btag_thrustBm
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_R2:
+  name: Btag_R2
+  bins: auto
+  range:
+  - min
+  - max
+  label: Btag_R2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+cosTBTO:
+  name: cosTBTO
+  bins: 50
+  range:
+  - min
+  - max
+  label: cosTBTO
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+Btag_thrustOm:
+  name: Btag_thrustOm
+  bins: 50
+  range:
+  - min
+  - max
+  label: Btag_thrustOm
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+

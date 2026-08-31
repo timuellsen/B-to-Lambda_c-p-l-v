@@ -1,0 +1,162 @@
+General:
+
+    Measurement: B_to_Lcplnu
+    POI: Signal
+    InputPath: pyhf/test_output_e.root:{RegionPath}/{SamplePath}/{VariationPath}
+    HistogramFolder: pyhf/output/
+    VariationPath: Nominal
+
+Samples:
+
+  - Name: Data
+    SamplePath: Data
+    Data: True
+
+  - Name: Signal
+    SamplePath: signMC
+    DisableStaterror: False
+
+  - Name: Background
+    SamplePath: background
+    DisableStaterror: False
+
+  - Name: Continuum
+    SamplePath: continuum
+    DisableStaterror: False
+
+Regions:
+
+  - Name: Electron
+    RegionPath: channel1
+
+NormFactors:
+
+  - Name: Signal
+    Samples:
+      - Signal
+    Nominal: 1
+    Bounds: [0, 10]
+    
+  - Name: Background
+    Samples:
+      - Background
+    Nominal: 1
+    Bounds: [0, 10]
+
+  - Name: Continuum
+    Samples:
+      - Continuum
+    Nominal: 1
+    Bounds: [0, 10]
+
+Systematics:
+
+  - Name: FEI_var1
+    Up:
+      VariationPath: FEI_var1_up
+    Down:
+      VariationPath: FEI_var1_down
+    Type: NormPlusShape    
+
+  - Name: FEI_var2
+    Up:
+      VariationPath: FEI_var2_up
+    Down:
+      VariationPath: FEI_var2_down
+    Type: NormPlusShape  
+
+  - Name: FEI_var3
+    Up:
+      VariationPath: FEI_var3_up
+    Down:
+      VariationPath: FEI_var3_down
+    Type: NormPlusShape    
+
+  - Name: FEI_var4
+    Up:
+      VariationPath: FEI_var4_up
+    Down:
+      VariationPath: FEI_var4_down
+    Type: NormPlusShape 
+
+  - Name: FEI_var5
+    Up:
+      VariationPath: FEI_var5_up
+    Down:
+      VariationPath: FEI_var5_down
+    Type: NormPlusShape 
+
+  - Name: FEI_var6
+    Up:
+      VariationPath: FEI_var6_up
+    Down:
+      VariationPath: FEI_var6_down
+    Type: NormPlusShape 
+ 
+  - Name: track_eff_var1
+    Up:
+      VariationPath: track_eff_var1_up
+    Down:
+      VariationPath: track_eff_var1_down
+    Type: NormPlusShape  
+
+  - Name: e_eff_var1
+    Up:
+      VariationPath: e_eff_var1_up
+    Down:
+      VariationPath: e_eff_var1_down
+    Type: NormPlusShape 
+
+  - Name: e_pifake_var1
+    Up:
+      VariationPath: e_pifake_var1_up
+    Down:
+      VariationPath: e_pifake_var1_down
+    Type: NormPlusShape
+
+  - Name: e_pifake_var2
+    Up:
+      VariationPath: e_pifake_var2_up
+    Down:
+      VariationPath: e_pifake_var2_down
+    Type: NormPlusShape
+
+  - Name: e_pifake_var3
+    Up:
+      VariationPath: e_pifake_var3_up
+    Down:
+      VariationPath: e_pifake_var3_down
+    Type: NormPlusShape
+
+  - Name: e_pifake_var4
+    Up:
+      VariationPath: e_pifake_var4_up
+    Down:
+      VariationPath: e_pifake_var4_down
+    Type: NormPlusShape
+
+  - Name: e_pifake_var5
+    Up:
+      VariationPath: e_pifake_var5_up
+    Down:
+      VariationPath: e_pifake_var5_down
+    Type: NormPlusShape
+    
+  - Name: e_Kfake_var1
+    Up:
+      VariationPath: e_Kfake_var1_up
+    Down:
+      VariationPath: e_Kfake_var1_down
+    Type: NormPlusShape
+    
+  - Name: e_Kfake_var2
+    Up:
+      VariationPath: e_Kfake_var2_up
+    Down:
+      VariationPath: e_Kfake_var2_down
+    Type: NormPlusShape
+
+
+
+
+

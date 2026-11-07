@@ -1,9 +1,9 @@
-# Belle II Analysis: Upper Limit Extraction for $B \rightarrow \Lambda_c^+ p \ell \nu$ (Hadronic Channel)
+# Search for $B^- \rightarrow \Lambda_c^+ \bar{p} \ell^- \bar{\nu}$ decays at Belle II
 
 ## 📌 Project Overview
 This repository contains core analysis scripts, configurations, and exploratory notebooks developed as part of my **M.Sc. Physics Master's Thesis** at the University of Bonn, focusing on the **Belle II experiment**. 
 
-The primary objective of this specific module was to determine the **upper limit of the branching fraction** for the rare/semileptonic decay channel $B \rightarrow \Lambda_c^+ p \ell \nu$ in the **hadronic tag side**, incorporating rigorous evaluations of both statistical and key systematic uncertainty sources.
+The primary objective of this specific module was to determine the **upper limit of the branching fraction** for the rare/semileptonic decay channel $B^- \rightarrow \Lambda_c^+ \bar{p} \ell^- \bar{\nu}$ in the **hadronic tag side**, incorporating rigorous evaluations of both statistical and key systematic uncertainty sources.
 
 ---
 

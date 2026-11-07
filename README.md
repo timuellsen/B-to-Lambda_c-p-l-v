@@ -24,3 +24,30 @@ B-toLambda_c-p-l-v/
 │   └── Grid_submission.py      # Job submission script for remote computing clusters (Grid/NAF)
 └── notebooks/                  # Exploratory Data Analysis & statistical evaluation
     └── Data Exploration (Lcp had).ipynb  # Main notebook for fit studies & limit extraction
+```
+
+---
+
+## 🔬 Methodology & Key Components
+
+### 1. Main Steering Pipeline (`scripts/B_to_Lcplnu.py`)
+- Acts as the central steering file for processing reconstructed event data.
+- Dynamically loads selection criteria from the `configs/` directory to separate analysis parameters from executable logic.
+- Executes candidate selection, vertex fitting, and event filtering for electron and muon channels.
+
+### 2. Signal MC & Grid Processing (`scripts/SignMC_process.py` & `scripts/Grid_submission.py`)
+- Standardizes signal Monte Carlo processing to evaluate reconstruction and tagging efficiencies.
+- Automates job batching for execution on remote high-performance computing clusters (DESY NAF / Grid infrastructure).
+
+### 3. Statistical Analysis & Limit Setting (`notebooks/Data Exploration (Lcp had).ipynb`)
+- **Exploratory Data Analysis:** Signal/background separation and kinematic distribution validation.
+- **Uncertainty Propagation:** Incorporates both statistical uncertainties and key systematic error contributions (e.g., tracking efficiencies, PID calibration, intermediate branching fractions).
+- **Upper Limit Extraction:** Calculates the upper limit on the branching fraction ($\mathcal{B}$) in the hadronic reconstruction channel using statistical modeling procedures.
+
+---
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, Bash
+- **Data & Statistical Libraries:** Pandas, NumPy, SciPy, Matplotlib
+- **Frameworks:** `basf2` (Belle II Analysis Software Framework), ROOT ecosystem
+- **Environment & Infrastructure:** Linux / WSL, Git, High-Performance / Grid Computing

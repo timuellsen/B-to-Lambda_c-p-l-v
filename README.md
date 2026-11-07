@@ -10,7 +10,7 @@ The primary objective of this specific module was to determine the **upper limit
 ## 📂 Repository Structure
 
 ```text
-b-to-lcplnu-analysis/
+B-toLambda_c-p-l-v/
 ├── README.md                   # Project documentation & methodology
 ├── configs/                    # YAML configuration files (Cuts, variables, steering parameters)
 │   ├── config.yaml

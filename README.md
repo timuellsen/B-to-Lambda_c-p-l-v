@@ -11,8 +11,8 @@ The primary objective of this specific module was to determine the **upper limit
 
 ```text
 B-toLambda_c-p-l-v/
-├── README.md                              # Project documentation & methodology
-├── configs/                               # YAML configuration files (Separated by analysis phase & channel)
+├── README.md                              
+├── configs/                               
 │   ├── config.yaml                        # Main configuration for template fits (full dataset)
 │   ├── config_electron.yaml               # Template fit parameters for the electron channel
 │   ├── config_muon.yaml                   # Template fit parameters for the muon channel
@@ -20,11 +20,11 @@ B-toLambda_c-p-l-v/
 │   ├── project_setup_electron.yaml        # Histogram configuration for electron channel
 │   ├── project_setup_muon.yaml            # Histogram configuration for muon channel
 │   └── variable_registry.yaml             # Feature mapping and variable definitions for ntuples
-├── scripts/                               # Python core scripts for execution and grid processing
+├── scripts/                               
 │   ├── B_to_Lcplnu.py                     # Main steering script for analysis workflow
 │   ├── SignMC_process.py                  # Monte Carlo signal processing & selection
 │   └── Grid_submission.py                 # Job submission script for remote computing clusters (Grid/NAF)
-└── notebooks/                             # Exploratory Data Analysis & statistical evaluation
+└── notebooks/                             
     └── Data Exploration (Lcp had).ipynb   # Main notebook for fit studies & limit extraction
 ```
 
